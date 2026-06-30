@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5b0211/CK-KZ/v1/markers/53
+seq: 53
+markers:
+  front: []
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR5b0211_CK-KZ_01p055a, image: JY282/CK-KZ_JY282_01p055a.png}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5b0211_CK-KZ_053-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5b0211_CK-KZ_01p055a01}
+  - {type: indent, offset: 0, content: 　, id: KR5b0211_CK-KZ_053-bkkind1}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5b0211_CK-KZ_053-bkkkrnewl2}
+  back: []
+hash: sha256:30550dd9610db819f4e3547f1487742b25ab94c181df1830922522ecf0e7bb26

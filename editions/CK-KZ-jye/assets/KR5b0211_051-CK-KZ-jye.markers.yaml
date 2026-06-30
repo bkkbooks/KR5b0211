@@ -1,0 +1,15 @@
+canonical_identifier: bkk:krp/KR5b0211/CK-KZ-jye/v1/markers/51
+seq: 51
+markers:
+  front: []
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR5b0211_CK-KZ_01p055a, image: JY282/CK-KZ_JY282_01p055a.png}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5b0211_CK-KZ-jye_051-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5b0211_CK-KZ_01p055a01}
+  - {type: 'kr:newline', offset: 1, content: '
+
+      ', id: KR5b0211_CK-KZ-jye_051-bkkkrnewl2}
+  back: []
+hash: sha256:1b93a28ce61bf2ccb7e838f385ec6759f38443864ce59ad514b8977304582f1d

@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5b0211/CK-KZ/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 士
+  hash: sha256:ab33f7ebd725d48af482fc691ae0f3513103981b70d819321baead4771f598b8
+metadata:
+  title: 無上黃籙大齋立成儀
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+  date: '2015-08-29 00:13:02.767707'
+  source:
+    repository: kanripo
+    path: KR5b0211/KR5b0211_017.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:9223bb011e731f63eacc5e8a213521c4b3c65c23ba9c8332de3883be4f0a7e28

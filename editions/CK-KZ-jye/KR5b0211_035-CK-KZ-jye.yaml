@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5b0211/CK-KZ-jye/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上
+  hash: sha256:db5ba671d244ee8284613c31e1b8438429651df48ea566ff5158f1e58fb20114
+metadata:
+  title: 無上黃籙大齋立成儀
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 00:13:02.767707'
+  source:
+    repository: kanripo
+    path: KR5b0211/KR5b0211_035.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:4058868ed47c636b62f8d7ebb52c99836ae9835915b4a737231e33545cf49935

@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5b0211/YP-C/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 符
+  hash: sha256:628d8d9a6f4b14573d52263a50bcf9fb0e2927ecf253dcf76a280e160eef91fc
+metadata:
+  title: 無上黃籙大齋立成儀
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 00:13:02.767707'
+  source:
+    repository: kanripo
+    path: KR5b0211/KR5b0211_056.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:1cb2c8babf867a731af063c4e4fc1565f83906d031ef2f744be2d9f56bf82c27

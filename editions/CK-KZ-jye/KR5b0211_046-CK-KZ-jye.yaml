@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5b0211/CK-KZ-jye/v1/juan/46
+seq: 46
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 帝
+  hash: sha256:3fbcbd256ab12ed9398360f95c9354a241c86b95c95c61876d6d88e63c12544d
+metadata:
+  title: 無上黃籙大齋立成儀
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 00:13:02.767707'
+  source:
+    repository: kanripo
+    path: KR5b0211/KR5b0211_046.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:c9d6b8ffc08bd2feb8dd4f2946dd0d5f6c35a7235a84e7614e41bde97142b4e7

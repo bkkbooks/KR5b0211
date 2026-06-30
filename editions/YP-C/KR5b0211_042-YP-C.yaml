@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5b0211/YP-C/v1/juan/42
+seq: 42
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 玉清開通道路符太乙飛符如普度用首名某等設斛云六道四生孤魂滯魄等靈寶召魂大將軍符凡攝召公牒及催牒並粘一道玉清七道功曹符天道功曹地道功曹人道功曹仙道功曹神道功曹鬼道功曹業道功曹靈寶召五神混合符腦符目符耳符心符肝符脾符肺符腎符陰符胞符胎符結符節符血符精符氣符神符命符太上靈寶變食符玉清眞火合同符玉清眞水合同符火府隱文玉清火鍊符玉清水鍊符混元十二炁混神三景眞符十二符各注將軍姓諱於符下用之一炁六元運陽化陰大將軍符生腎符二炁七變混元三景大將軍符生心符三炁八迴合元大將軍符生肝符四炁九光會靈大將軍符生肺符五炁十合陰陽大將軍符生脾符六炁十一變靈大將軍符生膀胱符七炁十二運化大將軍符生小腸符八炁十三陽光大將軍符生膽符九炁十四運度大將軍符生大腸符十炁十五成陰變陽大將軍符生胃符十一炁十六三景混成大將軍符生三焦符十二炁十七陰陽合靈大將軍符生心胞絡符
+  hash: sha256:d86557eefc4f1cec579280a119d6cdf414107be457003db7dcdf4ca4dd1ae680
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5b0211_YP-C_26zhangji-06-0025a, image: JY282/26zhangji-06-0025a.png}
+metadata:
+  title: 無上黃籙大齋立成儀
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 00:13:02.767707'
+  source:
+    repository: kanripo
+    path: KR5b0211/KR5b0211_042.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:e76b9ab4c8d26a5aa52090e56b5bc0b3e34695f7f67889c539d2f3a5d5685675

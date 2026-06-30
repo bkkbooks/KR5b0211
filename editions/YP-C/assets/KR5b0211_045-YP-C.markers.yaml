@@ -1,0 +1,11 @@
+canonical_identifier: bkk:krp/KR5b0211/YP-C/v1/markers/45
+seq: 45
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR5b0211_YP-C_045-front01}
+  - {type: 'kr:newline', offset: 1, content: '
+
+      ', id: KR5b0211_YP-C_045-bkkkrnewl1}
+  back: []
+hash: sha256:6c81f17f176d1299c2c1eeaf5defdd9bf1100d1406fc07f3ba7e7437c5b4208a

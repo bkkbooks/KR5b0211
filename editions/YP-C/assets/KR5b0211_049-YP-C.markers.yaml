@@ -1,0 +1,15 @@
+canonical_identifier: bkk:krp/KR5b0211/YP-C/v1/markers/49
+seq: 49
+markers:
+  front: []
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR5b0211_YP-C_26zhangji-06-0055a, image: JY282/26zhangji-06-0055a.png}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5b0211_YP-C_049-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5b0211_YP-C_26zhangji-06-0055a01}
+  - {type: 'kr:newline', offset: 1, content: '
+
+      ', id: KR5b0211_YP-C_049-bkkkrnewl2}
+  back: []
+hash: sha256:b8b9ef77fda660c4ae437cd13022d5a9f48e7c12d411e85f5c02903893c55b89
