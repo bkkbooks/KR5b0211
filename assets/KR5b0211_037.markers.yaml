@@ -71,6 +71,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl11}
   - {type: line-break, offset: 110, content: '', id: KR5b0211_HFL_037-001b01}
   - {type: punctuation, offset: 111, content: (, id: KR5b0211_krp_037-bkkpn1}
+  - {type: voice, offset: 111, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 116, content: /, id: KR5b0211_krp_037-bkkpn2}
   - {type: punctuation, offset: 121, content: ), id: KR5b0211_krp_037-bkkpn3}
   - {type: 'kr:newline', offset: 124, content: '
@@ -135,6 +136,7 @@ markers:
   - {type: line-break, offset: 274, content: '', id: KR5b0211_HFL_037-002a03}
   - {type: substitution, offset: 284, original: 旛, replacement: 幡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20431}}
   - {type: punctuation, offset: 288, content: (, id: KR5b0211_krp_037-bkkpn4}
+  - {type: voice, offset: 288, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 290, content: /, id: KR5b0211_krp_037-bkkpn5}
   - {type: punctuation, offset: 292, content: ), id: KR5b0211_krp_037-bkkpn6}
   - {type: 'kr:newline', offset: 292, content: '
@@ -166,6 +168,7 @@ markers:
   - {type: line-break, offset: 337, content: '', id: KR5b0211_HFL_037-002a08}
   - {type: substitution, offset: 341, original: 鑪, replacement: 爐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16780}}
   - {type: punctuation, offset: 342, content: (, id: KR5b0211_krp_037-bkkpn10}
+  - {type: voice, offset: 342, length: 10, name: note, id: n3}
   - {type: substitution, offset: 343, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
   - {type: variant, offset: 346, length: 5551, content: 金錢亦同梵之次道讃隨意普念功德次三皈依讃次唱道場衆等人各執簡當心平坐如法衆官坐定次唱讃詠如法吟宿命讃行香行經讃經如儀次唱靜念如法次唱請轉法輪次轉經轉經畢都講擊磬侍經收經次解座頌次起立嘆經次三聞經讃次吟太上智慧經讃次回向念善如升壇轉經衆官於玄師前立班都講唱道讃次華夏升壇入戸如朝儀至本位立定唱三皈依讃依次第轉經轉經畢吟學仙頌出壇於玄師前作回向讃畢散歸齋堂如常儀進章節次先棑設道場鋪陳供養正中三寶御前左止一三師位右從章仙曹官位三十六分次道衆序班天師堂法師上香次齋官上香設拜次唱按人各叅信次請師次齋官上香再拜次㸃酌法事次法師上香跪奏進章詞意次讃引至從章堂法師上香次齋官上香設拜次法師啓白次請上章靈官次齋官上香再拜次㸃酌三獻法事啓白如儀次讃引至三寳前法師入戸上香次齋官上香再拜次法師上本位香入拜章儀次唱各禮師存念如法次法師宣衞靈呪次唱鳴法鼓二十四通次法師發鑪次唱各稱法位次法師入科次請三清御位次㸃酌法事次唱長跪出官如法列班長跪次法師存神出官次法師開章度付侍經次侍經跪受章書同侍香露三寳前次宣章副齋官跪鑪次校章次法師遣章次熏章封訖入函次侍經捧章函監齋押之威儀華夏迎章至焚燎所烈火焚之次讀關先别遣一人詣從章堂讀從章䟽同明别一處焚化次焚章頌次法師伏地存神進呈如儀衆各淵黙以俟興如告符則於此後續入次送聖頌次法師納官次法師復鑪次出堂頌至天師前禮謝次送師次回向念善退告符節次拜酆都赦罪章畢法師上香啓白次法師祝救苦符柬次宣簡文次法師再祝符柬次法師告玉清㧞幽魂符如上儀次法師告玉清破地獄符次法師告太上勅赦生天寳籙次法師告東華青宫九龍符命次法師闕召驛吏童子次讀關并錢馬狀次法師祝遣童子驛吏次焚化符柬次讀錢馬狀度詞節次先道衆集靜黙堂議定六職簽書職狀職䄘次依班序立靜黙堂祖師前次法師上香令一人讀職榜訖各歸位立次引齋官詣祖師前設拜上香再拜次引齋官詣法師前再拜長跪投詞請師古法三跪俯伏今從省次法師受詞齋官再拜以詞付監齋次監齋致詞請師陞髙座俟法師答允次讃引法師升座次宣詞次法師祝香啓盟次四結願次法師下座次書結盟狀次賛引師出堂奉安幕次次回向念善次齋官設拜散如常儀立幕節次先道衆舉金闕化身天尊引法師出靜黙堂次至監臨所上香啓白宣誓言榜次髙功詣玄師幕上香衆官列班拜次齋官上香設拜次請玄師下降次請玄師頌次齋官上香設拜獻茶次髙功啓白次宣䟽次焚䟽次讃引至五帝幕次髙功上香衆官列班拜次齋官上香設拜次請五帝下降次請五帝頌次齋官上香設拜獻茶次髙功啓白次宣䟽次讀結盟狀次焚䟽并結盟狀次讃引至天師幕次髙功上香衆官列班拜次齋官上香設拜次請天師下降次請天師頌次齋官上香設拜獻茶次髙功啓白次宣䟽次讀結盟狀讀畢能在幕焚䟽次讃引至三師幕次髙功上香衆官列班拜次齋官上香設拜次請經師下降次請經師頌次請籍師下降次請籍師頌次請度師下降次請度師頌次請齋官設拜獻茶次髙功啓白次宣䟽次焚䟽次讃引至三官幕次髙功上香衆官列班拜次齋官上香設拜次請天官下降次請天官頌次請地官下降次請地官頌次請水官下降次請水官頌次齋官上香設拜獻茶次髙功啓白次宣䟽次讀結盟狀次焚䟽并結盟狀次讃引至監齋幕次髙功上香衆官列班拜次齋官上香設拜次請監齋法師下降次請監齋頌次齋官上香設拜獻茶次髙功啓白次宣䟽次焚䟽次華夏旋至壇前序立次髙功率六職衆官執柳枝水盂誦淨天地呪升壇旋繞洒淨歸位次禁壇如儀次回向念善揖退請光分燈節次先明燭一炬於三寳前道衆列班於齋壇前序立次齋官上香設拜次法師同侍香侍經升壇啓白請光次法師以符燭置手中宣廻耀神呪次法師以符燭一炬就三寳前請光在手宣分燈慧光呪次侍香侍燈各執紙燭就法師所執符燭分光次法師啓白分輝次舉流光法界天尊次侍香侍燈分㸃壇上燈燭衆官各執紙燭就法師手中分光然㸃壇席燈燭並令周遍次法師存神行持次道衆詠回耀飛光頌次法師再拜回向念善下壇次侍燈宣禮燈儀如科建壇畢宣呪亦可宿啓建壇節次先道衆集靜黙堂行香水盥漱依位立請髙功法師入靖次齋官上香設拜次舉金闕化身天尊次華夏讃引至五帝三師監齋幕次髙功齋官上香次讃引至三官天師幕次髙功齋官上香次讃引至玄師幕列班立次髙功上香次齋官上香執齋詞於玄師前自述修齋意訖再拜次髙功上香三拜長跪次齋官回身捧詞跪授髙功訖再拜退立于右次髙功以詞置簡上上啓告齋次唱道讃次法師至壇前分左右序立次髙功齋官上香設拜次髙功祝香啓聖次宣啓壇䟽次焚䟽次鳴金鍾玉磬次華夏威儀引髙功升外壇次齋官升壇次衆官以次升壇旋繞次華夏旋至地戸髙功密呪入户率官升中壇威儀不入中壇止在外壇旋繞次髙功同齋官升天門入内壇上十方香次齋官上十方香歸位再拜次髙功上御案香歸位次啓堂頌次都講唱各禮師存念如法次髙功宣衞靈呪次都講唱鳴法鼓二十四通次髙功發鑪次髙功上本位香侍香引齋官上十方香次都講唱各稱法位次髙功關啓次唱禮十方如儀次髙功懴悔三業次都講唱臣等至心皈命太上三尊十方衆聖禮經如法次三啓頌三首各一拜次都講唱三禮次髙功詣東方上香次髙功執東方眞文香上熏之宣眞文次衆官隨聲呪之畢各再拜次髙功詣南方上香敷露南方眞文如東方儀次高功詣西方上香敷露西方眞文如東方儀次髙功詣北方上香敷露北方眞文如東方儀次髙功詣中央御案上香敷露中央眞文如東方儀次髙功再總呪眞文衆官隨聲呪之畢髙功歸位次宣十方靈官䟽次都講唱重稱法位次高功重啓次宣詞次引齋官上香平立俟讀詞至上啓令再拜長跪執鑪次髙功入科次吟智慧頌三首旋行一周髙功行至都講位立次唱黙禮十方次唱衆官平坐說戒威儀次說戒次奉戒頌廵行至一周畢唱奉戒三禮髙功歸位次髙功𥙷職次髙功再拜受職次都講以下依次再拜於髙功處跪受職簡訖再拜次都講唱衆官平坐宣禁威儀次髙功宣科禁次唱監齋受罰簡三拜次髙功復鑪次學仙讃引髙功出户或空洞或奉戒次髙功至東三幕上香次髙功至西三幕上香序立玄師幕次回向讃次髙功上香宻啓謝過次都講唱監齋紏過次讃引歸堂次齋官上香拜謝法帥次皈依至道頌次都講云建壇事畢衆官復位破獄節次先詣獄燈所排立次法事次髙功齋官上香次髙功啓白告符次宣破獄告文次當職道士宣九獄燈儀次髙功依儀逐獄行持䇿杖發符破獄如本儀次回向念善召靈節次先詣召靈所排立次法事次髙功行持當職道士召攝亡靈如儀次隱語引亡靈赴浴所次當職道士宣沐浴科次迎亡靈朝謁次送靈歸位依儀呪食遅次夜亦可正齋節次先道衆集靜黙堂行香盥漱依位立請髙功入靜次齋官上香設拜次舉金闕化身天尊次華夏讃引髙功叅五帝三師監齋幕次高功齋官上香次叅三官天師幕次髙功齋官上香次列班於玄師幕序立次髙功齋官上香次髙功黙奏齋意次唱道讃次華夏陞壇如儀次髙功入户依儀上十方香訖歸位次齋官上十方香歸位再拜次都講唱各禮師存念如法次髙功宣衞靈呪中分落景行道不宣次都講舉鳴法鼓二十四通次髙功發鑪次都講唱重鳴法鼓二十四通閱吏兵行事衆官各長跪次髙功長跪出官如法次都講唱各稱法位次侍經獻茶次當職道士引亡靈旛至壇下朝謁次髙功上啓次宣詞齋官跪鑪次髙功三上十方香願念如科侍香引齋官三上十方香次衆官壇西立面東唱禮東方三禮後同次髙功齋官上東方香次跪讀方懴齋官跪鑪後同次西北立面東南唱禮東南方上香懴謝如上儀次正北立面南唱禮南方懴謝如儀次東北立面西南唱禮西南方懴謝如儀次正東立面西唱禮西方懴謝如儀次東南立面西北唱禮西北方懴謝如儀次正南立面北唱禮北方懴謝如儀次西南立面東北唱禮東北方懴謝如儀次西北立面東南唱禮下方懴謝如儀次東南立面西北唱禮上方懴謝如儀次西南立面東北唱禮日宫懴謝如儀次東北立面西南唱禮月宫懴謝如儀次正南立面北唱禮星宫懴謝如儀次正西面東唱禮東嶽懴謝如儀次正北立面南唱禮南嶽懴謝如儀次正東立面西唱禮西嶽懴謝如儀次正南立面北唱禮北嶽懴謝如儀次東北立面西南唱禮中嶽懴謝如儀次正南立面北唱禮水府懴謝如儀次就位唱禮經寳懴謝如儀次髙功左行住鬼門面西立都講住天門面東立都講唱各思九色圓像咽液命魔密呪次髙功存神宻呪次都講唱歩虚旋繞次吟歩虚洞章十首廻旋三周散花唱善毎首終各唱善一拜次都講唱禮經如法次三啓頌三首毎首一拜次都講唱三禮次侍經獻湯次都講唱重稱法位次髙功大謝次宣古法十念十二願文清旦說念臨午靜夜說願次髙功復鑪次學仙讃引髙功出户次髙功出壇至東三幕上香次至西幕上香序立玄師幕次回向讃次髙功上香密謝次都講唱監齋紏過次讃引歸堂别遣壇官舉天尊號送靈旛歸位次齋官上香拜謝法師次皈依至道頌次都講唱齋事旣畢衆官復位三日正齋九時行道並依此次第惟第一日建齋發鑪之後則長跪出官每日清旦禮師後宣衞靈呪及第三日落景行道發鑪後拜天官升度章徑入章科拜章畢分關啓如本科餘皆同攝召幽魂設斛節次先詣普召所排立次法事次法師行破暗開通道路法次入科次發普召牒法師關行當職道士依儀召請次法師敷座詠中篇引幽魂詣座下次法師行持爲幽魂全形次舉廣度沉淪天尊次法師告大洞玉符召神次法師發治病功曹符次舉梵炁普生天尊次法師發召五神混合符行持如儀次舉妙行無邊天尊次法師行持如儀次舉億劫化形天尊次法師爲幽魂召三魂七魄次舉超眞解脱天尊次法師誦玉清生魂育魄保神内呪次舉金容出世天尊次法師行持以水洒幽魂令俟升度次舉靈源普潤天尊次引幽魂沐浴如儀畢次引幽魂舉茭郭光明頌次道衆序立斛筵所法師祝香次吟普獻頌次法師行持入科次洒淨次舉人各恭信次請道寳舉道寳頌次請經寳舉經寳頌次請師寳舉師寳頌次法師啓白請太乙天尊次舉太乙救苦天尊四聲諷救苦經次法師啓白請三十二天帝次諷𨼆語次諷甘露通眞呪灑斛食次諷破酆都開業道呪次舉十方救苦天尊次法師敷座施斛次法師行持當職道士加持斛食如儀次舉十方靈寳天尊次法師宣法語次曰向錬度幽魂節次先詣鍊度所法師上香啓奏請降隂陽靈根眞水眞火次諷𨼆語法師歩罡至水火池行持如儀餘同正度科鍊度畢說戒度符超度如儀錬度亡靈節次先道衆序立錬度所次舉燒香頌次法師啓奏次請神次三獻拜表如儀次焚燎次回向念善次法事引法師至火池請降眞火如儀次詣氷池請降眞水如儀次法師至錬度所次法師詣座祝香啓奏次吟法事次法師行持召神次舉三界通化天尊次法師宣冶錬火池度命儀次發眞火合同符宣降眞火呪次法師指揮火錬官吏次舉火錬丹界天尊次告火府𨼆文宣火錬火呪次發火錬符次舉五眸煉質天尊次法師召神爲亡魂化生十二炁如儀次舉太清靈變天尊次法師召神告五帝玉司爲亡魂錬質變仙次舉朱陵度命天尊次發火錬成仙符宣丹天火錬火呪次舉火錬成眞天尊次發元君錬身符宣返生呪次舉度人無量天尊次發合形變形成形符行持如儀次依寳緯行持大梵𨼆語次舉隨縁赴感天尊次法師宣飛錬水池升度儀次發眞水合同符宣降眞氷呪次法師指揮水錬官吏次舉清淨度魂天尊次發黄炁陽精洞明符宣丹陽錬度大呪次發水錬符次舉黃華蕩形天尊次法師召神爲亡魂九錬釋罪如儀次舉好生度命天尊次法師召神告九天生神寳符特爲亡魂錬神返生次舉九天稱慶天尊次發石景水母玉精符宣東井大呪次舉髙眞妙果天尊次發神府錬身符宣聚形呪次舉金闕化身天尊次發金液錬形符宣錬形呪次舉轉輪聖王天尊次發分形錬形養形符行持如儀次舉隨願依生天尊次發靈寳登眞度命出離生死符次舉寳華圓滿天尊次法師焚符召六丁六甲金童玉女將軍引導亡魂傳戒度靈節次當職道士引亡至說戒所次法師詣座祝香次舉智慧頌三首次法師敷座說法次宣三皈依次宣九眞戒次告長生符次宣九天寳誥次宣長生度命黄籙次宣升天大劵次召飛天神王次召普告三界次歷關諸天次勑制地祇次頒元始符命次焚燎次舉度人無量天尊次宣功德牃次法師召神次度三塗五苦門次請五方童子送靈次引靈謝恩次引靈詣升度所次焚簡頌焚燎次法師行超度法次回向讃善散壇節次先集靜黙堂序立次齋官上香設拜次舉金闕化身天尊次華夏引至壇參西三幕髙功上香次參東二幕如建壇儀次至玄師幕序立次髙功上香黙奏齋意次唱道讃次華夏讃引髙功升壇入户上十方香歸位齋官上香歸位次各禮師衞靈呪次鳴法鼔發鑪稱法位關啓禮十方日從東起夜尺北起懴三業禮經三啓三禮次第如科並同審啓儀次髙功旋行収五方眞文隨方讀文如敷露之儀讀文畢令侍經執眞文於香上熏之次髙功宣真文大呪次衆官隨聲呪之畢置案上隨表焚之次都講唱重稱法位次髙功上香衆官長跪次宣詞齋官跪鑪如儀次髙功拜表次宣表次露表次遣表次封表次威儀迎表下壇監齋押之次焚表及青詞真文天門上次髙功伏表次唱表詞以聞次焚章頌次納官次髙功上香都講唱長跪還戒如法次髙功還戒次還戒頌次告山簡宣畢衆官再拜次弟子執簡横於香上髙功面東呪之次衆官同聲呪簡次告水簡如山簡儀次告土簡如上儀次投龍簡頌次髙功長跪次都講唱衆官納職於三寳前禮一拜長跪授簡髙功又三拜退髙功授職簡畢二禮還本位立次髙功復鑪次髙功上香面東立辭謝三寳次三塗五苦頌旋行下榜次引齋官升天門出地戸隨衆官旋行一周歸位立次三才及萬物頌下東方南方榜次大賢謹兹戒頌下西方北方榜次罪福不由它頌下東南西南方榜次滛沃爲禍首頌下西北東北方榜次宿命有信然頌下上方下方榜次人命消易盡頌下天門地户榜次大賢樂經戒頌下曰門月門榜次解壇頌次學仙頌岀壇次詣五帝幕髙功上香辭謝次齋官上香設拜次送五帝頌次詣三師幕髙功上香辭謝次齋官上香設拜次送三師頌次詣監齋幕髙功上香辭謝次齋官上香設拜次送監齋頌次詣三官幕各上香辭謝如上儀以送三官頌次詣天師幕辭謝如上儀次送天師頌次詣玄師幕高功齋官上香次回向讃次髙功啓謝玄師次送玄師次送玄師頌次讃引高功歸堂次衆官三禮跪謝髙功又三禮次齋官九禮三伏致謝髙功文賀禮成次揖主者歸位設醮節次先排辦醮筵如法次道衆集靖室次遣法師一人行禁壇法事次華夏讃引法師入戸次旋醮壇行香一周依班序立次齋官上香設拜次唱道讃次法師開啓次開堂頌次唱各禮師存念如法次法師宣衞靈呪次唱鳴法鼓一十四通次法師發鑪次唱長跪出官如法次法師出官次唱各稱法位次法師上啓次降聖次齋官上香設拜次法師躬身讃云三清上聖俯降道場合醮眞靈列班朝禮次法師又讃云十方眞聖三界威靈朝禮旣周各升醮座次點茶進酒次法事繞醮壇行香一周生案前立次奏長吟法事次唱各稱法位次法師入科次宣科次齋官跪鑪如儀次法師入科次法師齋官上香初獻酒次法事行香如初獻儀次法師上啓次法師齋官上香三獻酒次法事行香如初獻儀次奏車輦錢馬次宣功德都䟽次法師重啓次送神頌次長跪納官次復鑪次法事至焚燎所次焚詞頌次回向念善次唱設醮事畢衆官復位无上黄籙大齋立成儀卷之三十七, CK-KZ: ''}
   - {type: variant, offset: 346, length: 5551, content: 金錢亦同梵之次道讃隨意普念功德次三皈依讃次唱道場衆等人各執簡當心平坐如法衆官坐定次唱讃詠如法吟宿命讃行香行經讃經如儀次唱靜念如法次唱請轉法輪次轉經轉經畢都講擊磬侍經收經次解座頌次起立嘆經次三聞經讃次吟太上智慧經讃次回向念善如升壇轉經衆官於玄師前立班都講唱道讃次華夏升壇入戸如朝儀至本位立定唱三皈依讃依次第轉經轉經畢吟學仙頌出壇於玄師前作回向讃畢散歸齋堂如常儀進章節次先棑設道場鋪陳供養正中三寶御前左止一三師位右從章仙曹官位三十六分次道衆序班天師堂法師上香次齋官上香設拜次唱按人各叅信次請師次齋官上香再拜次㸃酌法事次法師上香跪奏進章詞意次讃引至從章堂法師上香次齋官上香設拜次法師啓白次請上章靈官次齋官上香再拜次㸃酌三獻法事啓白如儀次讃引至三寳前法師入戸上香次齋官上香再拜次法師上本位香入拜章儀次唱各禮師存念如法次法師宣衞靈呪次唱鳴法鼓二十四通次法師發鑪次唱各稱法位次法師入科次請三清御位次㸃酌法事次唱長跪出官如法列班長跪次法師存神出官次法師開章度付侍經次侍經跪受章書同侍香露三寳前次宣章副齋官跪鑪次校章次法師遣章次熏章封訖入函次侍經捧章函監齋押之威儀華夏迎章至焚燎所烈火焚之次讀關先别遣一人詣從章堂讀從章䟽同明别一處焚化次焚章頌次法師伏地存神進呈如儀衆各淵黙以俟興如告符則於此後續入次送聖頌次法師納官次法師復鑪次出堂頌至天師前禮謝次送師次回向念善退告符節次拜酆都赦罪章畢法師上香啓白次法師祝救苦符柬次宣簡文次法師再祝符柬次法師告玉清㧞幽魂符如上儀次法師告玉清破地獄符次法師告太上勅赦生天寳籙次法師告東華青宫九龍符命次法師闕召驛吏童子次讀關并錢馬狀次法師祝遣童子驛吏次焚化符柬次讀錢馬狀度詞節次先道衆集靜黙堂議定六職簽書職狀職䄘次依班序立靜黙堂祖師前次法師上香令一人讀職榜訖各歸位立次引齋官詣祖師前設拜上香再拜次引齋官詣法師前再拜長跪投詞請師古法三跪俯伏今從省次法師受詞齋官再拜以詞付監齋次監齋致詞請師陞髙座俟法師答允次讃引法師升座次宣詞次法師祝香啓盟次四結願次法師下座次書結盟狀次賛引師出堂奉安幕次次回向念善次齋官設拜散如常儀立幕節次先道衆舉金闕化身天尊引法師出靜黙堂次至監臨所上香啓白宣誓言榜次髙功詣玄師幕上香衆官列班拜次齋官上香設拜次請玄師下降次請玄師頌次齋官上香設拜獻茶次髙功啓白次宣䟽次焚䟽次讃引至五帝幕次髙功上香衆官列班拜次齋官上香設拜次請五帝下降次請五帝頌次齋官上香設拜獻茶次髙功啓白次宣䟽次讀結盟狀次焚䟽并結盟狀次讃引至天師幕次髙功上香衆官列班拜次齋官上香設拜次請天師下降次請天師頌次齋官上香設拜獻茶次髙功啓白次宣䟽次讀結盟狀讀畢能在幕焚䟽次讃引至三師幕次髙功上香衆官列班拜次齋官上香設拜次請經師下降次請經師頌次請籍師下降次請籍師頌次請度師下降次請度師頌次請齋官設拜獻茶次髙功啓白次宣䟽次焚䟽次讃引至三官幕次髙功上香衆官列班拜次齋官上香設拜次請天官下降次請天官頌次請地官下降次請地官頌次請水官下降次請水官頌次齋官上香設拜獻茶次髙功啓白次宣䟽次讀結盟狀次焚䟽并結盟狀次讃引至監齋幕次髙功上香衆官列班拜次齋官上香設拜次請監齋法師下降次請監齋頌次齋官上香設拜獻茶次髙功啓白次宣䟽次焚䟽次華夏旋至壇前序立次髙功率六職衆官執柳枝水盂誦淨天地呪升壇旋繞洒淨歸位次禁壇如儀次回向念善揖退請光分燈節次先明燭一炬於三寳前道衆列班於齋壇前序立次齋官上香設拜次法師同侍香侍經升壇啓白請光次法師以符燭置手中宣廻耀神呪次法師以符燭一炬就三寳前請光在手宣分燈慧光呪次侍香侍燈各執紙燭就法師所執符燭分光次法師啓白分輝次舉流光法界天尊次侍香侍燈分㸃壇上燈燭衆官各執紙燭就法師手中分光然㸃壇席燈燭並令周遍次法師存神行持次道衆詠回耀飛光頌次法師再拜回向念善下壇次侍燈宣禮燈儀如科建壇畢宣呪亦可宿啓建壇節次先道衆集靜黙堂行香水盥漱依位立請髙功法師入靖次齋官上香設拜次舉金闕化身天尊次華夏讃引至五帝三師監齋幕次髙功齋官上香次讃引至三官天師幕次髙功齋官上香次讃引至玄師幕列班立次髙功上香次齋官上香執齋詞於玄師前自述修齋意訖再拜次髙功上香三拜長跪次齋官回身捧詞跪授髙功訖再拜退立于右次髙功以詞置簡上上啓告齋次唱道讃次法師至壇前分左右序立次髙功齋官上香設拜次髙功祝香啓聖次宣啓壇䟽次焚䟽次鳴金鍾玉磬次華夏威儀引髙功升外壇次齋官升壇次衆官以次升壇旋繞次華夏旋至地戸髙功密呪入户率官升中壇威儀不入中壇止在外壇旋繞次髙功同齋官升天門入内壇上十方香次齋官上十方香歸位再拜次髙功上御案香歸位次啓堂頌次都講唱各禮師存念如法次髙功宣衞靈呪次都講唱鳴法鼓二十四通次髙功發鑪次髙功上本位香侍香引齋官上十方香次都講唱各稱法位次髙功關啓次唱禮十方如儀次髙功懴悔三業次都講唱臣等至心皈命太上三尊十方衆聖禮經如法次三啓頌三首各一拜次都講唱三禮次髙功詣東方上香次髙功執東方眞文香上熏之宣眞文次衆官隨聲呪之畢各再拜次髙功詣南方上香敷露南方眞文如東方儀次高功詣西方上香敷露西方眞文如東方儀次髙功詣北方上香敷露北方眞文如東方儀次髙功詣中央御案上香敷露中央眞文如東方儀次髙功再總呪眞文衆官隨聲呪之畢髙功歸位次宣十方靈官䟽次都講唱重稱法位次高功重啓次宣詞次引齋官上香平立俟讀詞至上啓令再拜長跪執鑪次髙功入科次吟智慧頌三首旋行一周髙功行至都講位立次唱黙禮十方次唱衆官平坐說戒威儀次說戒次奉戒頌廵行至一周畢唱奉戒三禮髙功歸位次髙功𥙷職次髙功再拜受職次都講以下依次再拜於髙功處跪受職簡訖再拜次都講唱衆官平坐宣禁威儀次髙功宣科禁次唱監齋受罰簡三拜次髙功復鑪次學仙讃引髙功出户或空洞或奉戒次髙功至東三幕上香次髙功至西三幕上香序立玄師幕次回向讃次髙功上香宻啓謝過次都講唱監齋紏過次讃引歸堂次齋官上香拜謝法帥次皈依至道頌次都講云建壇事畢衆官復位破獄節次先詣獄燈所排立次法事次髙功齋官上香次髙功啓白告符次宣破獄告文次當職道士宣九獄燈儀次髙功依儀逐獄行持䇿杖發符破獄如本儀次回向念善召靈節次先詣召靈所排立次法事次髙功行持當職道士召攝亡靈如儀次隱語引亡靈赴浴所次當職道士宣沐浴科次迎亡靈朝謁次送靈歸位依儀呪食遅次夜亦可正齋節次先道衆集靜黙堂行香盥漱依位立請髙功入靜次齋官上香設拜次舉金闕化身天尊次華夏讃引髙功叅五帝三師監齋幕次高功齋官上香次叅三官天師幕次髙功齋官上香次列班於玄師幕序立次髙功齋官上香次髙功黙奏齋意次唱道讃次華夏陞壇如儀次髙功入户依儀上十方香訖歸位次齋官上十方香歸位再拜次都講唱各禮師存念如法次髙功宣衞靈呪中分落景行道不宣次都講舉鳴法鼓二十四通次髙功發鑪次都講唱重鳴法鼓二十四通閱吏兵行事衆官各長跪次髙功長跪出官如法次都講唱各稱法位次侍經獻茶次當職道士引亡靈旛至壇下朝謁次髙功上啓次宣詞齋官跪鑪次髙功三上十方香願念如科侍香引齋官三上十方香次衆官壇西立面東唱禮東方三禮後同次髙功齋官上東方香次跪讀方懴齋官跪鑪後同次西北立面東南唱禮東南方上香懴謝如上儀次正北立面南唱禮南方懴謝如儀次東北立面西南唱禮西南方懴謝如儀次正東立面西唱禮西方懴謝如儀次東南立面西北唱禮西北方懴謝如儀次正南立面北唱禮北方懴謝如儀次西南立面東北唱禮東北方懴謝如儀次西北立面東南唱禮下方懴謝如儀次東南立面西北唱禮上方懴謝如儀次西南立面東北唱禮日宫懴謝如儀次東北立面西南唱禮月宫懴謝如儀次正南立面北唱禮星宫懴謝如儀次正西面東唱禮東嶽懴謝如儀次正北立面南唱禮南嶽懴謝如儀次正東立面西唱禮西嶽懴謝如儀次正南立面北唱禮北嶽懴謝如儀次東北立面西南唱禮中嶽懴謝如儀次正南立面北唱禮水府懴謝如儀次就位唱禮經寳懴謝如儀次髙功左行住鬼門面西立都講住天門面東立都講唱各思九色圓像咽液命魔密呪次髙功存神宻呪次都講唱歩虚旋繞次吟歩虚洞章十首廻旋三周散花唱善毎首終各唱善一拜次都講唱禮經如法次三啓頌三首毎首一拜次都講唱三禮次侍經獻湯次都講唱重稱法位次髙功大謝次宣古法十念十二願文清旦說念臨午靜夜說願次髙功復鑪次學仙讃引髙功出户次髙功出壇至東三幕上香次至西幕上香序立玄師幕次回向讃次髙功上香密謝次都講唱監齋紏過次讃引歸堂别遣壇官舉天尊號送靈旛歸位次齋官上香拜謝法師次皈依至道頌次都講唱齋事旣畢衆官復位三日正齋九時行道並依此次第惟第一日建齋發鑪之後則長跪出官每日清旦禮師後宣衞靈呪及第三日落景行道發鑪後拜天官升度章徑入章科拜章畢分關啓如本科餘皆同攝召幽魂設斛節次先詣普召所排立次法事次法師行破暗開通道路法次入科次發普召牒法師關行當職道士依儀召請次法師敷座詠中篇引幽魂詣座下次法師行持爲幽魂全形次舉廣度沉淪天尊次法師告大洞玉符召神次法師發治病功曹符次舉梵炁普生天尊次法師發召五神混合符行持如儀次舉妙行無邊天尊次法師行持如儀次舉億劫化形天尊次法師爲幽魂召三魂七魄次舉超眞解脱天尊次法師誦玉清生魂育魄保神内呪次舉金容出世天尊次法師行持以水洒幽魂令俟升度次舉靈源普潤天尊次引幽魂沐浴如儀畢次引幽魂舉茭郭光明頌次道衆序立斛筵所法師祝香次吟普獻頌次法師行持入科次洒淨次舉人各恭信次請道寳舉道寳頌次請經寳舉經寳頌次請師寳舉師寳頌次法師啓白請太乙天尊次舉太乙救苦天尊四聲諷救苦經次法師啓白請三十二天帝次諷𨼆語次諷甘露通眞呪灑斛食次諷破酆都開業道呪次舉十方救苦天尊次法師敷座施斛次法師行持當職道士加持斛食如儀次舉十方靈寳天尊次法師宣法語次曰向錬度幽魂節次先詣鍊度所法師上香啓奏請降隂陽靈根眞水眞火次諷𨼆語法師歩罡至水火池行持如儀餘同正度科鍊度畢說戒度符超度如儀錬度亡靈節次先道衆序立錬度所次舉燒香頌次法師啓奏次請神次三獻拜表如儀次焚燎次回向念善次法事引法師至火池請降眞火如儀次詣氷池請降眞水如儀次法師至錬度所次法師詣座祝香啓奏次吟法事次法師行持召神次舉三界通化天尊次法師宣冶錬火池度命儀次發眞火合同符宣降眞火呪次法師指揮火錬官吏次舉火錬丹界天尊次告火府𨼆文宣火錬火呪次發火錬符次舉五眸煉質天尊次法師召神爲亡魂化生十二炁如儀次舉太清靈變天尊次法師召神告五帝玉司爲亡魂錬質變仙次舉朱陵度命天尊次發火錬成仙符宣丹天火錬火呪次舉火錬成眞天尊次發元君錬身符宣返生呪次舉度人無量天尊次發合形變形成形符行持如儀次依寳緯行持大梵𨼆語次舉隨縁赴感天尊次法師宣飛錬水池升度儀次發眞水合同符宣降眞氷呪次法師指揮水錬官吏次舉清淨度魂天尊次發黄炁陽精洞明符宣丹陽錬度大呪次發水錬符次舉黃華蕩形天尊次法師召神爲亡魂九錬釋罪如儀次舉好生度命天尊次法師召神告九天生神寳符特爲亡魂錬神返生次舉九天稱慶天尊次發石景水母玉精符宣東井大呪次舉髙眞妙果天尊次發神府錬身符宣聚形呪次舉金闕化身天尊次發金液錬形符宣錬形呪次舉轉輪聖王天尊次發分形錬形養形符行持如儀次舉隨願依生天尊次發靈寳登眞度命出離生死符次舉寳華圓滿天尊次法師焚符召六丁六甲金童玉女將軍引導亡魂傳戒度靈節次當職道士引亡至說戒所次法師詣座祝香次舉智慧頌三首次法師敷座說法次宣三皈依次宣九眞戒次告長生符次宣九天寳誥次宣長生度命黄籙次宣升天大劵次召飛天神王次召普告三界次歷關諸天次勑制地祇次頒元始符命次焚燎次舉度人無量天尊次宣功德牃次法師召神次度三塗五苦門次請五方童子送靈次引靈謝恩次引靈詣升度所次焚簡頌焚燎次法師行超度法次回向讃善散壇節次先集靜黙堂序立次齋官上香設拜次舉金闕化身天尊次華夏引至壇參西三幕髙功上香次參東二幕如建壇儀次至玄師幕序立次髙功上香黙奏齋意次唱道讃次華夏讃引髙功升壇入户上十方香歸位齋官上香歸位次各禮師衞靈呪次鳴法鼔發鑪稱法位關啓禮十方日從東起夜尺北起懴三業禮經三啓三禮次第如科並同審啓儀次髙功旋行収五方眞文隨方讀文如敷露之儀讀文畢令侍經執眞文於香上熏之次髙功宣真文大呪次衆官隨聲呪之畢置案上隨表焚之次都講唱重稱法位次髙功上香衆官長跪次宣詞齋官跪鑪如儀次髙功拜表次宣表次露表次遣表次封表次威儀迎表下壇監齋押之次焚表及青詞真文天門上次髙功伏表次唱表詞以聞次焚章頌次納官次髙功上香都講唱長跪還戒如法次髙功還戒次還戒頌次告山簡宣畢衆官再拜次弟子執簡横於香上髙功面東呪之次衆官同聲呪簡次告水簡如山簡儀次告土簡如上儀次投龍簡頌次髙功長跪次都講唱衆官納職於三寳前禮一拜長跪授簡髙功又三拜退髙功授職簡畢二禮還本位立次髙功復鑪次髙功上香面東立辭謝三寳次三塗五苦頌旋行下榜次引齋官升天門出地戸隨衆官旋行一周歸位立次三才及萬物頌下東方南方榜次大賢謹兹戒頌下西方北方榜次罪福不由它頌下東南西南方榜次滛沃爲禍首頌下西北東北方榜次宿命有信然頌下上方下方榜次人命消易盡頌下天門地户榜次大賢樂經戒頌下曰門月門榜次解壇頌次學仙頌岀壇次詣五帝幕髙功上香辭謝次齋官上香設拜次送五帝頌次詣三師幕髙功上香辭謝次齋官上香設拜次送三師頌次詣監齋幕髙功上香辭謝次齋官上香設拜次送監齋頌次詣三官幕各上香辭謝如上儀以送三官頌次詣天師幕辭謝如上儀次送天師頌次詣玄師幕高功齋官上香次回向讃次髙功啓謝玄師次送玄師次送玄師頌次讃引高功歸堂次衆官三禮跪謝髙功又三禮次齋官九禮三伏致謝髙功文賀禮成次揖主者歸位設醮節次先排辦醮筵如法次道衆集靖室次遣法師一人行禁壇法事次華夏讃引法師入戸次旋醮壇行香一周依班序立次齋官上香設拜次唱道讃次法師開啓次開堂頌次唱各禮師存念如法次法師宣衞靈呪次唱鳴法鼓一十四通次法師發鑪次唱長跪出官如法次法師出官次唱各稱法位次法師上啓次降聖次齋官上香設拜次法師躬身讃云三清上聖俯降道場合醮眞靈列班朝禮次法師又讃云十方眞聖三界威靈朝禮旣周各升醮座次點茶進酒次法事繞醮壇行香一周生案前立次奏長吟法事次唱各稱法位次法師入科次宣科次齋官跪鑪如儀次法師入科次法師齋官上香初獻酒次法事行香如初獻儀次法師上啓次法師齋官上香三獻酒次法事行香如初獻儀次奏車輦錢馬次宣功德都䟽次法師重啓次送神頌次長跪納官次復鑪次法事至焚燎所次焚詞頌次回向念善次唱設醮事畢衆官復位无上黄籙大齋立成儀卷之三十七, CK-KZ-jye: ''}
@@ -173,6 +176,7 @@ markers:
   - {type: punctuation, offset: 347, content: /, id: KR5b0211_krp_037-bkkpn11}
   - {type: punctuation, offset: 352, content: ), id: KR5b0211_krp_037-bkkpn12}
   - {type: punctuation, offset: 355, content: (, id: KR5b0211_krp_037-bkkpn13}
+  - {type: voice, offset: 355, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 358, content: /, id: KR5b0211_krp_037-bkkpn14}
   - {type: punctuation, offset: 361, content: ), id: KR5b0211_krp_037-bkkpn15}
   - {type: 'kr:newline', offset: 361, content: '
@@ -184,6 +188,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl31}
   - {type: line-break, offset: 377, content: '', id: KR5b0211_HFL_037-002a10}
   - {type: punctuation, offset: 382, content: (, id: KR5b0211_krp_037-bkkpn16}
+  - {type: voice, offset: 382, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 384, content: /, id: KR5b0211_krp_037-bkkpn17}
   - {type: punctuation, offset: 386, content: ), id: KR5b0211_krp_037-bkkpn18}
   - {type: 'kr:newline', offset: 395, content: '
@@ -251,6 +256,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl45}
   - {type: line-break, offset: 529, content: '', id: KR5b0211_HFL_037-003a02}
   - {type: punctuation, offset: 538, content: (, id: KR5b0211_krp_037-bkkpn19}
+  - {type: voice, offset: 538, length: 23, name: note, id: n6}
   - {type: punctuation, offset: 546, content: /, id: KR5b0211_krp_037-bkkpn20}
   - {type: punctuation, offset: 554, content: ), id: KR5b0211_krp_037-bkkpn21}
   - {type: 'kr:newline', offset: 554, content: '
@@ -322,6 +328,7 @@ markers:
   - {type: line-break, offset: 738, content: '', id: KR5b0211_HFL_037-003b05}
   - {type: substitution, offset: 739, original: 㸃, replacement: 點, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-6519}}
   - {type: punctuation, offset: 751, content: (, id: KR5b0211_krp_037-bkkpn25}
+  - {type: voice, offset: 751, length: 4, name: note, id: n7}
   - {type: punctuation, offset: 753, content: /, id: KR5b0211_krp_037-bkkpn26}
   - {type: punctuation, offset: 755, content: ), id: KR5b0211_krp_037-bkkpn27}
   - {type: 'kr:newline', offset: 755, content: '
@@ -356,6 +363,7 @@ markers:
   - {type: line-break, offset: 833, content: '', id: KR5b0211_HFL_037-004a01}
   - {type: page-break, offset: 833, content: '', id: KR5b0211_SJB_037-090590a, image: sjb/09/090590a.png}
   - {type: punctuation, offset: 835, content: (, id: KR5b0211_krp_037-bkkpn28}
+  - {type: voice, offset: 835, length: 20, name: note, id: n8}
   - {type: punctuation, offset: 845, content: /, id: KR5b0211_krp_037-bkkpn29}
   - {type: substitution, offset: 847, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
   - {type: punctuation, offset: 855, content: ), id: KR5b0211_krp_037-bkkpn30}
@@ -369,6 +377,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl68}
   - {type: line-break, offset: 876, content: '', id: KR5b0211_HFL_037-004a03}
   - {type: punctuation, offset: 877, content: (, id: KR5b0211_krp_037-bkkpn31}
+  - {type: voice, offset: 877, length: 9, name: note, id: n9}
   - {type: punctuation, offset: 882, content: /, id: KR5b0211_krp_037-bkkpn32}
   - {type: punctuation, offset: 886, content: ), id: KR5b0211_krp_037-bkkpn33}
   - {type: 'kr:newline', offset: 895, content: '
@@ -452,6 +461,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl86}
   - {type: line-break, offset: 1106, content: '', id: KR5b0211_HFL_037-004b10}
   - {type: punctuation, offset: 1115, content: (, id: KR5b0211_krp_037-bkkpn34}
+  - {type: voice, offset: 1115, length: 9, name: note, id: n10}
   - {type: punctuation, offset: 1120, content: /, id: KR5b0211_krp_037-bkkpn35}
   - {type: punctuation, offset: 1124, content: ), id: KR5b0211_krp_037-bkkpn36}
   - {type: 'kr:newline', offset: 1126, content: '
@@ -562,6 +572,7 @@ markers:
   - {type: page-break, offset: 1408, content: '', id: KR5b0211_SJB_037-090590c, image: sjb/09/090590c.png}
   - {type: substitution, offset: 1409, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
   - {type: punctuation, offset: 1415, content: (, id: KR5b0211_krp_037-bkkpn37}
+  - {type: voice, offset: 1415, length: 5, name: note, id: n11}
   - {type: punctuation, offset: 1418, content: /, id: KR5b0211_krp_037-bkkpn38}
   - {type: punctuation, offset: 1420, content: ), id: KR5b0211_krp_037-bkkpn39}
   - {type: substitution, offset: 1421, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
@@ -716,6 +727,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl144}
   - {type: line-break, offset: 1869, content: '', id: KR5b0211_HFL_037-007b02}
   - {type: punctuation, offset: 1873, content: (, id: KR5b0211_krp_037-bkkpn40}
+  - {type: voice, offset: 1873, length: 7, name: note, id: n12}
   - {type: punctuation, offset: 1877, content: /, id: KR5b0211_krp_037-bkkpn41}
   - {type: punctuation, offset: 1880, content: ), id: KR5b0211_krp_037-bkkpn42}
   - {type: 'kr:newline', offset: 1880, content: '
@@ -797,6 +809,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl162}
   - {type: line-break, offset: 2120, content: '', id: KR5b0211_HFL_037-008a09}
   - {type: punctuation, offset: 2121, content: (, id: KR5b0211_krp_037-bkkpn43}
+  - {type: voice, offset: 2121, length: 12, name: note, id: n13}
   - {type: punctuation, offset: 2127, content: /, id: KR5b0211_krp_037-bkkpn44}
   - {type: punctuation, offset: 2133, content: ), id: KR5b0211_krp_037-bkkpn45}
   - {type: 'kr:newline', offset: 2142, content: '
@@ -913,6 +926,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl187}
   - {type: line-break, offset: 2471, content: '', id: KR5b0211_HFL_037-009b01}
   - {type: punctuation, offset: 2474, content: (, id: KR5b0211_krp_037-bkkpn46}
+  - {type: voice, offset: 2474, length: 8, name: note, id: n14}
   - {type: punctuation, offset: 2478, content: /, id: KR5b0211_krp_037-bkkpn47}
   - {type: punctuation, offset: 2482, content: ), id: KR5b0211_krp_037-bkkpn48}
   - {type: substitution, offset: 2484, original: 黙, replacement: 默, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20742}}
@@ -1026,6 +1040,7 @@ markers:
   - {type: line-break, offset: 2792, content: '', id: KR5b0211_HFL_037-010b04}
   - {type: punctuation, offset: 2804, content: (, id: KR5b0211_krp_037-bkkpn49}
   - {type: substitution, offset: 2804, original: 遅, replacement: 遲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20714}}
+  - {type: voice, offset: 2804, length: 5, name: note, id: n15}
   - {type: punctuation, offset: 2807, content: /, id: KR5b0211_krp_037-bkkpn50}
   - {type: punctuation, offset: 2809, content: ), id: KR5b0211_krp_037-bkkpn51}
   - {type: 'kr:newline', offset: 2809, content: '
@@ -1085,6 +1100,7 @@ markers:
   - {type: line-break, offset: 2953, content: '', id: KR5b0211_HFL_037-011a05}
   - {type: substitution, offset: 2957, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 2960, content: (, id: KR5b0211_krp_037-bkkpn52}
+  - {type: voice, offset: 2960, length: 8, name: note, id: n16}
   - {type: punctuation, offset: 2964, content: /, id: KR5b0211_krp_037-bkkpn53}
   - {type: punctuation, offset: 2968, content: ), id: KR5b0211_krp_037-bkkpn54}
   - {type: 'kr:newline', offset: 2973, content: '
@@ -1098,6 +1114,7 @@ markers:
   - {type: line-break, offset: 2988, content: '', id: KR5b0211_HFL_037-011a07}
   - {type: substitution, offset: 2996, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20841}}
   - {type: punctuation, offset: 3001, content: (, id: KR5b0211_krp_037-bkkpn55}
+  - {type: voice, offset: 3001, length: 5, name: note, id: n17}
   - {type: punctuation, offset: 3004, content: /, id: KR5b0211_krp_037-bkkpn56}
   - {type: punctuation, offset: 3006, content: ), id: KR5b0211_krp_037-bkkpn57}
   - {type: 'kr:newline', offset: 3006, content: '
@@ -1114,6 +1131,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl229}
   - {type: line-break, offset: 3037, content: '', id: KR5b0211_HFL_037-011a10}
   - {type: punctuation, offset: 3050, content: (, id: KR5b0211_krp_037-bkkpn58}
+  - {type: voice, offset: 3050, length: 4, name: note, id: n18}
   - {type: punctuation, offset: 3052, content: /, id: KR5b0211_krp_037-bkkpn59}
   - {type: substitution, offset: 3053, original: 鑪, replacement: 爐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16780}}
   - {type: punctuation, offset: 3054, content: ), id: KR5b0211_krp_037-bkkpn60}
@@ -1126,6 +1144,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl231}
   - {type: line-break, offset: 3054, content: '', id: KR5b0211_HFL_037-011b01}
   - {type: punctuation, offset: 3066, content: (, id: KR5b0211_krp_037-bkkpn61}
+  - {type: voice, offset: 3066, length: 10, name: note, id: n19}
   - {type: punctuation, offset: 3071, content: /, id: KR5b0211_krp_037-bkkpn62}
   - {type: punctuation, offset: 3076, content: ), id: KR5b0211_krp_037-bkkpn63}
   - {type: 'kr:newline', offset: 3076, content: '
@@ -1142,6 +1161,7 @@ markers:
   - {type: line-break, offset: 3108, content: '', id: KR5b0211_HFL_037-011b04}
   - {type: substitution, offset: 3109, original: 鑪, replacement: 爐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16780}}
   - {type: punctuation, offset: 3110, content: (, id: KR5b0211_krp_037-bkkpn64}
+  - {type: voice, offset: 3110, length: 2, name: note, id: n20}
   - {type: punctuation, offset: 3111, content: /, id: KR5b0211_krp_037-bkkpn65}
   - {type: punctuation, offset: 3112, content: ), id: KR5b0211_krp_037-bkkpn66}
   - {type: 'kr:newline', offset: 3125, content: '
@@ -1247,6 +1267,7 @@ markers:
   - {type: substitution, offset: 3447, original: 廻, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16348}}
   - {type: punctuation, offset: 3455, content: (, id: KR5b0211_krp_037-bkkpn67}
   - {type: substitution, offset: 3455, original: 毎, replacement: 每, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20789}}
+  - {type: voice, offset: 3455, length: 8, name: note, id: n21}
   - {type: punctuation, offset: 3458, content: /, id: KR5b0211_krp_037-bkkpn68}
   - {type: punctuation, offset: 3461, content: ), id: KR5b0211_krp_037-bkkpn69}
   - {type: 'kr:newline', offset: 3461, content: '
@@ -1262,6 +1283,7 @@ markers:
   - {type: line-break, offset: 3477, content: '', id: KR5b0211_HFL_037-012b07}
   - {type: punctuation, offset: 3477, content: (, id: KR5b0211_krp_037-bkkpn73}
   - {type: substitution, offset: 3477, original: 毎, replacement: 每, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20789}}
+  - {type: voice, offset: 3477, length: 4, name: note, id: n22}
   - {type: punctuation, offset: 3479, content: /, id: KR5b0211_krp_037-bkkpn74}
   - {type: punctuation, offset: 3481, content: ), id: KR5b0211_krp_037-bkkpn75}
   - {type: 'kr:newline', offset: 3493, content: '
@@ -1273,6 +1295,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl261}
   - {type: line-break, offset: 3508, content: '', id: KR5b0211_HFL_037-012b09}
   - {type: punctuation, offset: 3515, content: (, id: KR5b0211_krp_037-bkkpn76}
+  - {type: voice, offset: 3515, length: 10, name: note, id: n23}
   - {type: substitution, offset: 3517, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 3520, content: /, id: KR5b0211_krp_037-bkkpn77}
   - {type: substitution, offset: 3523, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
@@ -1503,6 +1526,7 @@ markers:
   - {type: line-break, offset: 4125, content: '', id: KR5b0211_HFL_037-015a01}
   - {type: page-break, offset: 4125, content: '', id: KR5b0211_SJB_037-090593c, image: sjb/09/090593c.png}
   - {type: punctuation, offset: 4129, content: (, id: KR5b0211_krp_037-bkkpn79}
+  - {type: voice, offset: 4129, length: 16, name: note, id: n24}
   - {type: punctuation, offset: 4137, content: /, id: KR5b0211_krp_037-bkkpn80}
   - {type: substitution, offset: 4137, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 4145, content: ), id: KR5b0211_krp_037-bkkpn81}
@@ -1698,6 +1722,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl349}
   - {type: line-break, offset: 4694, content: '', id: KR5b0211_HFL_037-016b09}
   - {type: punctuation, offset: 4700, content: (, id: KR5b0211_krp_037-bkkpn82}
+  - {type: voice, offset: 4700, length: 2, name: note, id: n25}
   - {type: punctuation, offset: 4702, content: ), id: KR5b0211_krp_037-bkkpn83}
   - {type: substitution, offset: 4707, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: 'kr:newline', offset: 4709, content: '
@@ -1741,6 +1766,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl358}
   - {type: line-break, offset: 4813, content: '', id: KR5b0211_HFL_037-017a07}
   - {type: punctuation, offset: 4824, content: (, id: KR5b0211_krp_037-bkkpn84}
+  - {type: voice, offset: 4824, length: 2, name: note, id: n26}
   - {type: punctuation, offset: 4825, content: /, id: KR5b0211_krp_037-bkkpn85}
   - {type: punctuation, offset: 4826, content: ), id: KR5b0211_krp_037-bkkpn86}
   - {type: 'kr:newline', offset: 4829, content: '
@@ -1794,6 +1820,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl369}
   - {type: line-break, offset: 4949, content: '', id: KR5b0211_HFL_037-017b07}
   - {type: punctuation, offset: 4951, content: (, id: KR5b0211_krp_037-bkkpn87}
+  - {type: voice, offset: 4951, length: 8, name: note, id: n27}
   - {type: punctuation, offset: 4955, content: /, id: KR5b0211_krp_037-bkkpn88}
   - {type: punctuation, offset: 4959, content: ), id: KR5b0211_krp_037-bkkpn89}
   - {type: 'kr:newline', offset: 4970, content: '
@@ -1801,6 +1828,7 @@ markers:
       ', id: KR5b0211_krp_037-bkkkrnewl370}
   - {type: line-break, offset: 4970, content: '', id: KR5b0211_HFL_037-017b08}
   - {type: punctuation, offset: 4972, content: (, id: KR5b0211_krp_037-bkkpn90}
+  - {type: voice, offset: 4972, length: 5, name: note, id: n28}
   - {type: punctuation, offset: 4975, content: /, id: KR5b0211_krp_037-bkkpn91}
   - {type: punctuation, offset: 4977, content: ), id: KR5b0211_krp_037-bkkpn92}
   - {type: substitution, offset: 4982, original: 収, replacement: 收, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19851}}
@@ -1824,6 +1852,7 @@ markers:
   - {type: line-break, offset: 5020, content: '', id: KR5b0211_HFL_037-018a01}
   - {type: page-break, offset: 5020, content: '', id: KR5b0211_SJB_037-090594c, image: sjb/09/090594c.png}
   - {type: punctuation, offset: 5025, content: (, id: KR5b0211_krp_037-bkkpn93}
+  - {type: voice, offset: 5025, length: 8, name: note, id: n29}
   - {type: punctuation, offset: 5029, content: /, id: KR5b0211_krp_037-bkkpn94}
   - {type: punctuation, offset: 5033, content: ), id: KR5b0211_krp_037-bkkpn95}
   - {type: 'kr:newline', offset: 5040, content: '
@@ -1882,6 +1911,7 @@ markers:
   - {type: line-break, offset: 5204, content: '', id: KR5b0211_HFL_037-018b03}
   - {type: punctuation, offset: 5204, content: (, id: KR5b0211_krp_037-bkkpn96}
   - {type: 'kr:non-cjk', offset: 5204, content: ▲, id: KR5b0211_krp_037-bkkkrnonc3}
+  - {type: voice, offset: 5204, length: 29, name: note, id: n30}
   - {type: substitution, offset: 5206, original: 寳, replacement: 寶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16794}}
   - {type: punctuation, offset: 5218, content: /, id: KR5b0211_krp_037-bkkpn97}
   - {type: punctuation, offset: 5233, content: ), id: KR5b0211_krp_037-bkkpn98}
@@ -2111,4 +2141,4 @@ markers:
 
       ', id: KR5b0211_krp_037-bkkkrnewl439}
   back: []
-hash: sha256:240d89985dc761a313f6a79e7a7d95571297e6dac26656aecdaf4321bc2b3716
+hash: sha256:5f5774e1dbd1da9449041a663ba96bfdf047d7735a3027c182813675bd75a5cb

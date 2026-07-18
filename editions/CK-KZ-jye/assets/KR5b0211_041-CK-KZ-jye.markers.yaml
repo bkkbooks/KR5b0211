@@ -47,6 +47,7 @@ markers:
   - {type: line-break, offset: 30, content: '', id: KR5b0211_CK-KZ_01p001a13}
   - {type: line-break, offset: 47, content: '', id: KR5b0211_CK-KZ_01p001a14}
   - {type: punctuation, offset: 48, content: (, id: KR5b0211_CK-KZ-jye_041-bkkpn1}
+  - {type: voice, offset: 48, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 56, content: ), id: KR5b0211_CK-KZ-jye_041-bkkpn2}
   - {type: paragraph-break, offset: 56, content: '
 
@@ -382,6 +383,7 @@ markers:
   - {type: line-break, offset: 37, content: '', id: KR5b0211_CK-KZ_01p010b03}
   - {type: indent, offset: 37, content: 　　, id: KR5b0211_CK-KZ-jye_041-bkkind2}
   - {type: punctuation, offset: 40, content: (, id: KR5b0211_CK-KZ-jye_041-bkkpn1}
+  - {type: voice, offset: 40, length: 9, name: note, id: n1}
   - {type: punctuation, offset: 49, content: ), id: KR5b0211_CK-KZ-jye_041-bkkpn2}
   - {type: line-break, offset: 50, content: '', id: KR5b0211_CK-KZ_01p010b04}
   - {type: indent, offset: 51, content: 　, id: KR5b0211_CK-KZ-jye_041-bkkind3}
@@ -862,9 +864,11 @@ markers:
   - {type: line-break, offset: 744, content: '', id: KR5b0211_CK-KZ_01p018b01}
   - {type: indent, offset: 744, content: 　, id: KR5b0211_CK-KZ-jye_041-bkkind55}
   - {type: punctuation, offset: 745, content: (, id: KR5b0211_CK-KZ-jye_041-bkkpn3}
+  - {type: voice, offset: 745, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 753, content: ), id: KR5b0211_CK-KZ-jye_041-bkkpn4}
   - {type: line-break, offset: 757, content: '', id: KR5b0211_CK-KZ_01p018b02}
   - {type: punctuation, offset: 766, content: (, id: KR5b0211_CK-KZ-jye_041-bkkpn5}
+  - {type: voice, offset: 766, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 775, content: ), id: KR5b0211_CK-KZ-jye_041-bkkpn6}
   - {type: 'kr:newline', offset: 775, content: '
 
@@ -1125,4 +1129,4 @@ markers:
 
       ', id: KR5b0211_CK-KZ-jye_041-bkkkrnewl86}
   back: []
-hash: sha256:a3f93186255497149bee031d482777b88f359af5e620defe51ec6155ffe73560
+hash: sha256:47de4e7b4aed52234e716e487624f3b0e901d5177e41f2d988f0d48e3a7458d4
